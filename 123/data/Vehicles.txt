@@ -1,0 +1,4 @@
+SpaceshipA#Earth#Mars#01.01.2025#10
+SpaceshipB#Mars#Jupiter#01.01.2025#20
+SpaceshipC#Jupiter#Saturn#01.01.2025#30
+SpaceshipD#Mars#Earth#04.01.2025#30
